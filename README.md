@@ -77,7 +77,7 @@ git remote add origin git@github.com:UserName/Repository
 
 > 每次需要修改GitHub仓库中文件时先进性操作
 
-```bash
+```sh
 #进入本地版本管理库文件夹
 cd /e/myGitHub
 #拉取仓库中的所有资源到本地
@@ -112,7 +112,7 @@ git commit -m "update"
 
 ## 3.推送到远程仓库
 
-```bash
+```sh
 git push --all -f
 ```
 
