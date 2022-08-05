@@ -92,6 +92,8 @@ git pull origin master
 
 # 六、上传
 
+![Git区域关系](https://cdn.jsdelivr.net/gh/justplays/MyPicGo/img/202208051504824.png)
+
 ## 1.添加当前更改或新增
 
 ```sh
