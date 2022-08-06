@@ -22,7 +22,7 @@ ssh-keygen -t rsa -C "myMailbox@163.com"
 ## 3.查看生成的密钥
 
 ```sh
-cat .ssh/id_rsa.pub
+cat ~/.ssh/id_rsa.pub
 ```
 
 ## 4.配置SSH keys
